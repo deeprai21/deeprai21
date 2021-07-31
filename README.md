@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @deeprai21
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ....
+
 
 <!---
 deeprai21/deeprai21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
